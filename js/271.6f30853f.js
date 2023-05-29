@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvue2_blog"]=self["webpackChunkvue2_blog"]||[]).push([[271],{9271:function(e,n,u){u.r(n),u.d(n,{default:function(){return a}});var s=function(){var e=this;e._self._c;return e._m(0)},t=[function(){var e=this,n=e._self._c;return n("div",{staticClass:"home"},[n("h1",[e._v("This is an home page")])])}],l=u(1001),r={},i=(0,l.Z)(r,s,t,!1,null,null,null),a=i.exports}}]);
-//# sourceMappingURL=271.6f30853f.js.map
